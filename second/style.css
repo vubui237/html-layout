@@ -1,0 +1,38 @@
+.c1 {
+  background-color: black;
+  height: 100vh;
+  width: 32vw;
+  display: inline-block;
+  margin-right: -4px
+}
+.c2 {
+  background-color: green;
+  height: 100vh;
+  width: 32vw;
+  display: inline-block;
+}
+.c3 {
+  background-color: orange;
+  height: 100vh;
+  width: 32vw;
+  display: inline-block;
+  position: absolute;
+}
+.c4 {
+  background-color: red;
+  height: 30vh;
+  width: 32vw;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+}
+
+.container {
+    position: absolute;
+    top: 32%;
+    left: 38%;
+    transform: translateX(-25%) translateY(-25%);
+    color: white;
+    font-family: arial;
+    font-size: 200%;
+}
